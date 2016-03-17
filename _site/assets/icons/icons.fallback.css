@@ -1,0 +1,10 @@
+
+.icon-logo {
+	background-image: url('/wp-content/themes/x/framework/img/global/grunticon/png/logo.png');
+	background-repeat: no-repeat;
+}
+
+.icon-logo-nav {
+	background-image: url('/wp-content/themes/x/framework/img/global/grunticon/png/logo-nav.png');
+	background-repeat: no-repeat;
+}

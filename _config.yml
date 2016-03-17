@@ -9,10 +9,16 @@
 title: Kudoy
 email: strategy@kudoy.com
 description: > # this means to ignore newlines until "baseurl:"
-  Kudoy is a easily accessed, quickly executed, concise method to move from challenge to strategic resolution in 12 online steps. The process is reusable, refinable, and extensible to the largest problem. The result is a one page strategic plan graphic that captures all of the vital information associated with a vision and the strategies that will achieve it.  
+  Kudoy is an easily accessed, quickly executed, concise method to move from challenge to strategic resolution in 12 online steps. The process is reusable, refinable, and extensible to the largest problem. The result is a one page strategic plan graphic that captures all of the vital information associated with a vision and the strategies that will achieve it.  
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 
+imagedirectory: "/assets/img"
+icondirectory: "/assets/icons"
+favdirectory: "/assets/fav"
+
+sass:
+    style: compressed
 
 # Build settings
 markdown: kramdown
